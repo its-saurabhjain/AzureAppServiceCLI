@@ -1,0 +1,14 @@
+c:\Cloud\Azure\AppService\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.deps.json
+c:\Cloud\Azure\AppService\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.runtimeconfig.json
+c:\Cloud\Azure\AppService\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.runtimeconfig.dev.json
+c:\Cloud\Azure\AppService\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.dll
+c:\Cloud\Azure\AppService\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.pdb
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csprojAssemblyReference.cache
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csproj.CoreCompileInputs.cache
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorAssemblyInfo.cache
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorAssemblyInfo.cs
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.AssemblyInfoInputs.cache
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.AssemblyInfo.cs
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorTargetAssemblyInfo.cache
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.dll
+c:\Cloud\Azure\AppService\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.pdb
